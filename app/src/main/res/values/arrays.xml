@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="hospital_list">
+        <item>Select Hospital</item>
+        <item>LLR Hospital (Hallet)</item>
+        <item>GSVM Medical College</item>
+        <item>Regency Hospital</item>
+        <item>Rama Hospital</item>
+        <item>Madhuraj Hospital</item>
+        <item>Kulwanti Hospital</item>
+        <item>Ursala Hospital</item>
+        <item>KPM Hospital</item>
+        <item>Fortune Hospital</item>
+        <item>Narayana Hospital</item>
+        <item>Excel Hospital</item>
+        <item>Krishna Super Speciality Hospital</item>
+        <item>Chandni Hospital</item>
+        <item>Mariampur Hospital</item>
+        <item>North Star Hospital</item>
+        <item>Kanshi Ram Hospital</item>
+    </string-array>
+
+</resources>
