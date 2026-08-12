@@ -71,3 +71,17 @@ You must provide your own API credentials when configuring the project locally.
 **Ahmad Khan**
 
 GitHub: [Ahmad2k04](https://github.com/Ahmad2k04)
+
+## 📸 Screenshots
+
+![Screenshot 1](screenshots/Screenshot_2026-08-12-13-53-56-838_com.example.smartambulancesystem.jpg.jpeg)
+
+![Screenshot 2](screenshots/Screenshot_2026-08-12-14-02-47-040_com.miui.gallery.jpg.jpeg)
+
+![Screenshot 3](screenshots/Screenshot_2026-08-12-13-53-49-990_com.example.smartambulancesystem.jpg.jpeg)
+
+![Screenshot 4](screenshots/Screenshot_2026-08-12-13-55-41-037_com.example.smartambulancesystem.jpg.jpeg)
+
+![Screenshot 5](screenshots/Screenshot_2026-08-12-13-53-37-652_com.example.smartambulancesystem.jpg.jpeg)
+
+![Screenshot 6](screenshots/Screenshot_2026-08-12-13-55-28-783_com.example.smartambulancesystem.jpg.jpeg)
